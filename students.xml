@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<University>
+  <Students>
+    <Student>
+      <MatricNo>23030161</MatricNo>
+      <FirstName>Mohammad Khazsrulhazsmie</FirstName>
+      <LastName>bin Husaini</LastName>
+      <ContactNo>012 - 345 6789</ContactNo>
+      <Email>23030161@siswa.unimas.my</Email>
+      <Address>
+        <City>Kuching</City>
+        <State>Sarawak</State>
+        <Postcode>93050</Postcode>
+      </Address>
+    </Student>
+    <Student>
+      <MatricNo>23030602</MatricNo>
+      <FirstName>ALVIN THIEN</FirstName>
+      <LastName>HAN LIANG</LastName>
+      <ContactNo>012 - 303 0602</ContactNo>
+      <Email>23030602@siswa.unimas.my</Email>
+      <Address>
+        <City>Kuching</City>
+        <State>Sarawak</State>
+        <Postcode>93050</Postcode>
+      </Address>
+    </Student>
+    <Student>
+      <MatricNo>22030675</MatricNo>
+      <FirstName>ABDUL BASIT MUHAMMAD</FirstName>
+      <LastName>BIN HUSSAIN</LastName>
+      <ContactNo>012 - 203 0675</ContactNo>
+      <Email>22030675@siswa.unimas.my</Email>
+      <Address>
+        <City>Kota Samarahan</City>
+        <State>Sarawak</State>
+        <Postcode>94300</Postcode>
+      </Address>
+    </Student>
+    <Student>
+      <MatricNo>23030486</MatricNo>
+      <FirstName>MUHAMMAD FARIS</FirstName>
+      <LastName>BIN MOHD ERWENDDY</LastName>
+      <ContactNo>012 - 303 0486</ContactNo>
+      <Email>23030486@siswa.unimas.my</Email>
+      <Address>
+        <City>Kota Kinabalu</City>
+        <State>Sabah</State>
+        <Postcode>88450</Postcode>
+      </Address>
+    </Student>
+    <Student>
+      <MatricNo>23030156</MatricNo>
+      <FirstName>MOHAMMAD TAWFIK</FirstName>
+      <LastName>BIN KAMARUDDIN</LastName>
+      <ContactNo>012 - 303 0156</ContactNo>
+      <Email>23030156@siswa.unimas.my</Email>
+      <Address>
+        <City>Johor Bahru</City>
+        <State>Johor</State>
+        <Postcode>80100</Postcode>
+      </Address>
+    </Student>
+    <Student>
+      <MatricNo>23030116</MatricNo>
+      <FirstName>JULIANA QARISHMA</FirstName>
+      <LastName>BINTI JUBLEE</LastName>
+      <ContactNo>012 - 303 0116</ContactNo>
+      <Email>23030116@siswa.unimas.my</Email>
+      <Address>
+        <City>Miri</City>
+        <State>Sarawak</State>
+        <Postcode>98000</Postcode>
+      </Address>
+    </Student>
+    <Student>
+      <MatricNo>23030248</MatricNo>
+      <FirstName>ANI HAFIFFY</FirstName>
+      <LastName>ANIL YAKIN</LastName>
+      <ContactNo>23030248</ContactNo>
+      <Email>23030248@siswa.unimas.my</Email>
+      <Address>
+        <City>Lundu</City>
+        <State>Sarawak</State>
+        <Postcode>94500</Postcode>
+      </Address>
+    </Student>
+    <Student>
+      <MatricNo>23030410</MatricNo>
+      <FirstName>MAGDELINE SAMBAI</FirstName>
+      <LastName>ANAK KENDAWANG</LastName>
+      <ContactNo>012 - 303 0410</ContactNo>
+      <Email>23030410@siswa.unimas.my</Email>
+      <Address>
+        <City>Bintangor</City>
+        <State>Sarawak</State>
+        <Postcode>96500</Postcode>
+      </Address>
+    </Student>
+    <Student>
+      <MatricNo>23030163</MatricNo>
+      <FirstName>WAN NUR NAZMIE</FirstName>
+      <LastName>BIN WAN AZLAN</LastName>
+      <ContactNo>012 - 303 0163</ContactNo>
+      <Email>23030163@siswa.unimas.my</Email>
+      <Address>
+        <City>Kuching</City>
+        <State>Sarawak</State>
+        <Postcode>93050</Postcode>
+      </Address>
+    </Student>
+    <Student>
+      <MatricNo>23030446</MatricNo>
+      <FirstName>SHAHNON AZEEM</FirstName>
+      <LastName>BIN SHAHRUL AZAMIN</LastName>
+      <ContactNo>012 - 303 0446</ContactNo>
+      <Email>23030446@siswa.unimas.my</Email>
+      <Address>
+        <City>Kuala Pilah</City>
+        <State>Negeri Sembilan</State>
+        <Postcode>72509</Postcode>
+      </Address>
+    </Student>
+    <Student>
+      <MatricNo>23030452</MatricNo>
+      <FirstName>MARK KEVIN</FirstName>
+      <LastName>FREDERICK</LastName>
+      <ContactNo>012 - 303 0452</ContactNo>
+      <Email>23030452@siswa.unimas.my</Email>
+      <Address>
+        <City>Kota Kinabalu</City>
+        <State>Sabah</State>
+        <Postcode>88450</Postcode>
+      </Address>
+    </Student>
+  </Students>  
+</University>

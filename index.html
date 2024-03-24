@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University Student Records</title>
+    <link rel="stylesheet" href="style.css">  
+</head>
+<body>
+    <header>
+      <h1>University Student Records</h1>
+    </header>
+    <div>
+        <label class="filter">Filter by:</label>
+        <select id="filter-by-state" class="filter">
+            <option value="">Choose State</option>            
+        </select>
+        <select id="filter-by-city" class="filter">
+            <option value="">Choose City</option>        
+        </select>
+    </div>   
+    <nav id="navigation">
+        <button id="prev-btn" disabled>Previous</button>
+        <button id="next-btn" disabled>Next</button>
+        <button id="view-all-btn">View All Records</button>
+    </nav>  
+    <section id="basic-info">
+        <h2>Student Basic Information</h2>
+        <div id="student-basic-container">          
+        </div>
+    </section>
+    <section id="all-records" class="hidden">
+        <h2>All Student Records</h2>
+        <table id="students-table">
+            <thead>
+                <tr>                
+                    <th>Matric No.</th>
+                    <th>Name</th>
+                    <th>Contact No.</th>
+                    <th>Email</th>
+                    <th>City</th>
+                    <th>State</th>
+                    <th>Postcode</th>
+                </tr>
+            </thead>
+            <tbody>
+              <!-- Table rows will generate here -->
+            </tbody>
+      </table>
+    </section>
+    <script src="script.js" defer></script>
+</body>
+</html>
+
